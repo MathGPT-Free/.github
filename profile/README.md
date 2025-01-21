@@ -1,9 +1,9 @@
-# MathGPT - Free AI Math Solver & Best Homework Helper
+# MathGPT - Free AI Math Solver & Best AI for Math
 
 MathGPT is an advanced AI-powered math solver designed to assist users in tackling a wide range of mathematical problems, from basic arithmetic to complex calculus. Utilizing cutting-edge algorithms, MathGPT provides accurate, step-by-step solutions and detailed explanations, making it an invaluable tool for students, educators, and professionals alike.
 
 ## Start Using MathGPT Now
-Ready to solve your math problems instantly? Let's start now!
+Ready to start your relaxing math journey? Let's start now!
 
 [MathGPT](https://math-gpt.ai)
   
