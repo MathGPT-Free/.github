@@ -4,7 +4,7 @@ MathGPT is an advanced AI-powered math solver designed to assist users in tackli
 
 ## Get Started with MathGPT Now
 Ready to start your relaxing math journey? Let's start now -> [MathGPT](https://math-gpt.ai)
-  
+
 ## Key Features
 
 ### Step-by-Step Solutions
